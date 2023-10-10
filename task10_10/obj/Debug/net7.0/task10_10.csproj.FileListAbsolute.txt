@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\bin\Debug\net7.0\task10_10.exe
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\bin\Debug\net7.0\task10_10.deps.json
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\bin\Debug\net7.0\task10_10.runtimeconfig.json
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\bin\Debug\net7.0\task10_10.dll
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\bin\Debug\net7.0\task10_10.pdb
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\obj\Debug\net7.0\task10_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\obj\Debug\net7.0\task10_10.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\obj\Debug\net7.0\task10_10.AssemblyInfo.cs
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\obj\Debug\net7.0\task10_10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\obj\Debug\net7.0\task10_10.dll
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\obj\Debug\net7.0\refint\task10_10.dll
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\obj\Debug\net7.0\task10_10.pdb
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\obj\Debug\net7.0\task10_10.genruntimeconfig.cache
+C:\Users\Asus\Desktop\tasks\task10_10\task10_10\obj\Debug\net7.0\ref\task10_10.dll
